@@ -4,7 +4,7 @@ Run flaskserver.py
 Run frontend.py
 Open the website and enjoy!
 
-1st place winner in Ideathon in Techastra conducted by MGR college, Chennai.
+1st place winner in Ideathon in Techastra 2024 conducted by MGR college, Chennai.
 
 ps. please feel free to change, modify and give me ideas on how i can implement it or how i can improve it.
 You are free to use this is your own hackathon/ideathon/projects/college work :)
