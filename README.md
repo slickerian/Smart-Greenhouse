@@ -12,8 +12,12 @@ You are free to use this is your own hackathon/ideathon/projects/college work :)
 
 
 Commands:
+
 python -m venv greenhouse
+
 pip install requirements.txt
+
 python flaskserver.py
+
 streamlit run frontend.py
 
