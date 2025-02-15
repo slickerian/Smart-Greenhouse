@@ -8,3 +8,12 @@ Open the website and enjoy!
 
 ps. please feel free to change, modify and give me ideas on how i can implement it or how i can improve it.
 You are free to use this is your own hackathon/ideathon/projects/college work :)
+
+
+
+Commands:
+python -m venv greenhouse
+pip install requirements.txt
+python flaskserver.py
+streamlit run frontend.py
+
