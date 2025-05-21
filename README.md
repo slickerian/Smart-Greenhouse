@@ -12,6 +12,7 @@ Run flaskserver.py
 Run frontend.py
 Open the website and enjoy!
 
+![image](https://github.com/user-attachments/assets/0d78a2d8-245c-4982-a988-6348c4eaa2a3)
 
 
 ps. please feel free to change, modify and give me ideas on how i can implement it or how i can improve it.
@@ -28,4 +29,5 @@ pip install requirements.txt
 python flaskserver.py
 
 streamlit run frontend.py
+
 
