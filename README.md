@@ -12,7 +12,8 @@ Run flaskserver.py
 Run frontend.py
 Open the website and enjoy!
 
-![image](https://github.com/user-attachments/assets/0d78a2d8-245c-4982-a988-6348c4eaa2a3)
+
+![Screenshot 2025-05-21 113647](https://github.com/user-attachments/assets/ef695902-6371-4b7f-839c-97a65250c8a1)
 
 
 ps. please feel free to change, modify and give me ideas on how i can implement it or how i can improve it.
